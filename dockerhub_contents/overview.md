@@ -1,8 +1,8 @@
 ### Dockerfile
 https://github.com/tiizuka/docker-python-flint/blob/main/Dockerfile
 
-### This Image
-Fixes Python-FLINT build error with latest Python
+### These images
+provide workarounds for dealing with Python-FLINT build errors with the latest versions of Debian.
 
 ### Versions
 ```
